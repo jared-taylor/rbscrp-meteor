@@ -1,0 +1,188 @@
+body {
+  padding: 50px;
+}
+
+.ui.text.item {
+  alignment: left;
+}
+
+.ui.banner.container {
+  text-align: left;
+}
+
+.ui.img {
+  padding-top: 0;
+}
+
+.support {
+  padding-bottom: 40px;
+}
+
+.ui.hours.img {
+  width: 600px;
+  height: 400px;
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+.ui.borderless.menu {
+  background-color: #0A84FF;
+  min-width: 100% !important;
+  margin-bottom: 0;
+}
+
+.ui.dropdown.menu {
+  background-color: #0A84FF;
+}
+
+.ui.two.column.centered.grid {
+  width: 80%;
+  alignment: center !important;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 10%;
+}
+
+.ui.two.column.centered.borderless.grid {
+  alignment: center !important;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.ui.header.top.header {
+  color: #1251a7;
+  text-align: center;
+}
+
+.hours {
+  background-color: #3682e9;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.column.right {
+  background-color: white;
+  padding: 0 !important;
+}
+
+.column.left {
+  padding: 0 !important;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-weight: bolder;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+  font-weight: normal;
+}
+
+#h2-hours {
+  color: black;
+  text-align: left;
+  font-weight: bolder;
+}
+
+#h2-map {
+  color: white;
+  text-align: center;
+  font-weight: bolder;
+}
+
+#h3-hours {
+  color: black;
+  text-align: left;
+  font-weight: normal;
+}
+
+#support {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.ui.hours.container {
+  background-color: #3682e9;
+  margin-top: 100px;
+  margin-bottom: 15px;
+}
+
+.ui.hours.column {
+  background-color: white;
+  padding-left: 0;
+  border-left: 0;
+  margin-left: 0;
+}
+
+.ui.hours.image.column {
+  background-color: #3682e9;
+  padding-right: 0;
+  border-right: 0;
+  margin-right: 0;
+}
+
+.ui.button {
+  background-color: black;
+  color: aliceblue;
+  position: relative;
+  left: 35%;
+}
+
+.ui.support.button {
+  background-color: black;
+  color: aliceblue;
+  position: relative;
+  left: 45%;
+}
+
+.contact {
+  margin-top: 0;
+  background-color: black;
+}
+
+.ui.contact.container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: black;
+}
+
+iframe {
+  margin-top: 100px;
+  margin-bottom: 20px;
+  position: relative;
+  left: 20%;
+}
+
+.ui.form {
+  width: 60%;
+  position: relative;
+  left: 20%;
+}
+
+.ui.button.contact-button {
+  width: 100%;
+  padding-left: 0;
+}
+
+.ui.field{
+  background-color: black;
+  color: white;
+}
+
+.ui.container.map {
+  padding-top: 50px;
+  width: 60%;
+}
+
+.ui.container.hours-text {
+  background-color: white;
+  height: 100%;
+}
